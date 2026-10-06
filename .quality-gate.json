@@ -1,0 +1,4 @@
+{
+  "commands": [["bash", "scripts/check.sh"]],
+  "timeout_seconds": 60
+}
